@@ -19,9 +19,9 @@
           "checksum": "SHA-256:ddde87dd23c3c692e1e8e2c8bfdcfe9c630e86dd03100d7243e56864f7878920",
           "size": "2735805",
           "boards": [
-            {"name": "EK-TM4C123GXL"},
-            {"name": "EK-TM4C1294XL"},
-            {"name": "EK-LM4F120XL"}
+            {"name": "EK-TM4C123GXL-SOL"},
+            {"name": "EK-TM4C1294XL-SOL"},
+            {"name": "EK-LM4F120XL-SOL"}
           ],
           "toolsDependencies": [
             {
@@ -46,9 +46,9 @@
           "checksum": "SHA-256:d36684ab78ad516c65177d0402919814ab3681fff070d52e8036c3a13a5167ab",
           "size": "2239118",
           "boards": [
-            {"name": "EK-TM4C123GXL"},
-            {"name": "EK-TM4C1294XL"},
-            {"name": "EK-LM4F120XL"}
+            {"name": "EK-TM4C123GXL-SOL"},
+            {"name": "EK-TM4C1294XL-SOL"},
+            {"name": "EK-LM4F120XL-SOL"}
           ],
           "toolsDependencies": [
             {
@@ -73,9 +73,9 @@
           "checksum": "SHA-256:932d7d66dddf9ce4e498b737157c671b668cb450536f7223186e03955ae08041",
           "size": "2189817",
           "boards": [
-            {"name": "EK-TM4C123GXL"},
-            {"name": "EK-TM4C1294XL"},
-            {"name": "EK-LM4F120XL"}
+            {"name": "EK-TM4C123GXL-SOL"},
+            {"name": "EK-TM4C1294XL-SOL"},
+            {"name": "EK-LM4F120XL-SOL"}
           ],
           "toolsDependencies": [
             {
