@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/solexious/custom-tivac-core/raw/master/tivac-core-1.0.4.zip",
           "archiveFileName": "tivac-core-1.0.4.zip",
-          "checksum": "SHA-256:110c312d2d24e33c00dd1c2654af26bfabaa2ba058086b24442ca0947dfab67d",
-          "size": "3815102",
+          "checksum": "SHA-256:30aa0dccc5f8a9132aa5836e5dee3f7ecfc9de23a1271158235de6e6a17fed67",
+          "size": "3514422",
           "boards": [
             {"name": "EK-TM4C123GXL"},
             {"name": "EK-TM4C1294XL"},
