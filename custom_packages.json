@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "energia",
-      "maintainer": "Energia",
+      "name": "solexious",
+      "maintainer": "Solexious",
       "websiteURL": "http://www.energia.nu/",
       "email": "make@energia.nu",
       "help": {
@@ -25,12 +25,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager":"energia",
+              "packager":"solexious",
               "name":"arm-none-eabi-gcc",
               "version":"6.3.1-20170620"
             },
             {
-              "packager":"energia",
+              "packager":"solexious",
               "name":"dslite",
               "version":"7.2.0.2096"
             }
@@ -52,12 +52,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager":"energia",
+              "packager":"solexious",
               "name":"arm-none-eabi-gcc",
               "version":"6.3.1-20170620"
             },
             {
-              "packager":"energia",
+              "packager":"solexious",
               "name":"dslite",
               "version":"7.2.0.2096"
             }
@@ -80,13 +80,13 @@
           "toolsDependencies": [
             {
 
-              "packager":"energia",
+              "packager":"solexious",
               "name":"arm-none-eabi-gcc",
               "version":"4.8.4-20140725"
             },
             {
 
-              "packager":"energia",
+              "packager":"solexious",
               "name":"dslite",
               "version":"6.2.1.1594"
             }
