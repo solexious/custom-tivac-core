@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Energia TivaC boards Custom",
+          "name": "Solexious TivaC boards",
           "architecture": "tivac",
           "version": "1.0.4",
           "category": "Contributed",
@@ -37,7 +37,7 @@
           ]
         },
         {
-          "name": "Energia TivaC boards Custom",
+          "name": "Solexious TivaC boards Custom",
           "architecture": "tivac",
           "version": "1.0.3",
           "category": "Contributed",
@@ -64,7 +64,7 @@
           ]
         },
         {
-          "name": "Energia TivaC boards Custom",
+          "name": "Solexious TivaC boards Custom",
           "architecture": "tivac",
           "version": "1.0.2",
           "category": "Contributed",
