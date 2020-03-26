@@ -12,33 +12,6 @@
         {
           "name": "Solexious TivaC boards",
           "architecture": "tivac",
-          "version": "1.0.4",
-          "category": "Contributed",
-          "url": "https://github.com/solexious/custom-tivac-core/blob/master/tivac-core-1.0.4.tar.bz2?raw=true",
-          "archiveFileName": "tivac-core-1.0.4.tar.bz2",
-          "checksum": "SHA-256:ddde87dd23c3c692e1e8e2c8bfdcfe9c630e86dd03100d7243e56864f7878920",
-          "size": "2735805",
-          "boards": [
-            {"name": "EK-TM4C123GXL"},
-            {"name": "EK-TM4C1294XL"},
-            {"name": "EK-LM4F120XL"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager":"energia",
-              "name":"arm-none-eabi-gcc",
-              "version":"6.3.1-20170620"
-            },
-            {
-              "packager":"energia",
-              "name":"dslite",
-              "version":"7.2.0.2096"
-            }
-          ]
-        },
-        {
-          "name": "Solexious TivaC boards",
-          "architecture": "tivac",
           "version": "1.0.3",
           "category": "Contributed",
           "url": "http://energia.nu/downloads/download_core.php?file=tivac-1.0.3.tar.bz2",
